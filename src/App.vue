@@ -1,4 +1,11 @@
+<script setup>
+import HomePage from './views/HomePage.vue';
+
+
+
+</script>
+
 <template>
-  <h1>imon</h1>
+  <HomePage />
 </template>
 
