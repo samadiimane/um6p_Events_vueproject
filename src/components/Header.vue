@@ -26,25 +26,25 @@
             </div>
             <div class="header-elements">
               <div class="site-logo">
-                <a href="index.html">
+                <a href="/">
                   <img src="/assets/img/logo/logo-2.png" alt="Logo" />
                 </a>
               </div>
               <div class="main-menu">
                 <ul>
                   <li>
-                    <a href="index.html">Home</a>
+                    <a href="/">Home</a>
                   </li>
                   <li>
-                    <a href="about.html">About Event</a>
+                    <a href="/about">About Event</a>
                   </li>
                   <li>
-                    <a href="event-schedule.html">
+                    <a href="/schedule">
                       Event Details <i class="fa-solid fa-angle-down"></i>
                     </a>
                     <ul class="dropdown-padding">
                       <li>
-                        <a href="event-schedule.html">Agenda Overview</a>
+                        <a href="/schedule">Agenda Overview</a>
                       </li>
                     </ul>
                   </li>
