@@ -12,7 +12,7 @@
                   <li>
                     <a href="mailto:eventifyconference@.com">
                       <img src="/assets/img/icons/mail1.svg" alt="Mail" />
-                      eventifyconference@.com <span> | </span>
+                      futureforward@gmail.com <span> | </span>
                     </a>
                   </li>
                   <li>
@@ -39,12 +39,12 @@
                     <a href="/about">About Event</a>
                   </li>
                   <li>
-                    <a href="/schedule">
+                    <a href="/agenda">
                       Event Details <i class="fa-solid fa-angle-down"></i>
                     </a>
                     <ul class="dropdown-padding">
                       <li>
-                        <a href="/schedule">Agenda Overview</a>
+                        <a href="/agenda">Agenda Overview</a>
                       </li>
                     </ul>
                   </li>
@@ -77,7 +77,7 @@
       <div class="col-12">
         <div class="mobile-header-elements">
           <div class="mobile-logo">
-            <a href="index.html">
+            <a href="/">
               <img src="/assets/img/logo/logo-2.png" alt="Logo" />
             </a>
           </div>
@@ -101,16 +101,16 @@
     <div class="mobile-nav mobile-nav1">
       <ul class="mobile-nav-list nav-list1">
         <li>
-          <a href="index.html">Home</a>
+          <a href="/">Home</a>
         </li>
         <li>
-          <a href="about.html">About Event</a>
+          <a href="/about">About Event</a>
         </li>
         <li>
           <a href="#">Event Details</a>
           <ul class="sub-menu">
             <li>
-              <a href="event-schedule.html">Agenda Overview</a>
+              <a href="/agenda">Agenda Overview</a>
             </li>
           </ul>
         </li>

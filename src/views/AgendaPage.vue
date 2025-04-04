@@ -1,11 +1,11 @@
 <script setup>
-import Hero from '@/components/Hero.vue';
 import Footer from '@/components/Footer.vue';
+import HeroAgenda from '@/components/HeroAgenda.vue';
 
 </script>
 
 
 <template>
-    <Hero />
+    <HeroAgenda />
     <Footer />
 </template>

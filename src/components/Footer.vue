@@ -29,11 +29,11 @@
         <div class="link-content">
           <h3>Quick Links</h3>
           <ul>
-            <li><a href="about.html">About Us</a></li>
-            <li><a href="blog.html">Our Blogs</a></li>
-            <li><a href="event.html">Event Listing</a></li>
-            <li><a href="pricing-plan.html">Pricing Plan</a></li>
-            <li><a href="contact.html">Contact Us</a></li>
+            <li><a href="/about">About Us</a></li>
+            <li><a href="/agenda">Event Details</a></li>
+            <li><a href="#">Event Listing</a></li>
+            <li><a href="#">Pricing Plan</a></li>
+            <li><a href="#">Contact Us</a></li>
           </ul>
         </div>
       </div>
@@ -51,19 +51,19 @@
             <li>
               <a href="#">
                 <img src="/assets/img/icons/location1.svg" alt="" />
-                Secret Location In The UK
+                Casablanca, Morocco
               </a>
             </li>
             <li>
               <a href="mailto:eventifyevent@gmail.com">
                 <img src="/assets/img/icons/mail1.svg" alt="" />
-                eventifyevent@gmail.com
+                futureforward@gmail.com
               </a>
             </li>
             <li>
               <a href="#">
                 <img src="/assets/img/icons/world1.svg" alt="" />
-                eventifyevent.com
+                futureforward.com
               </a>
             </li>
           </ul>
@@ -130,7 +130,7 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="copyright">
-          <p>&copy; Copyright 2025 -Eventify. All Right Reserved</p>
+          <p>&copy; Copyright 2025 -FutureForward. All Right Reserved</p>
         </div>
       </div>
     </div>

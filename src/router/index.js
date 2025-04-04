@@ -6,7 +6,7 @@ import AgendaPage from '../views/AgendaPage.vue'
 const routes = [
   { path: '/', name: 'HomePage', component: HomePage },
   { path: '/about', name: 'AboutPage', component: AboutPage },
-  { path: '/schedule', name: 'AgendaPage', component: AgendaPage }
+  { path: '/agenda', name: 'AgendaPage', component: AgendaPage }
 ]
 
 const router = createRouter({
