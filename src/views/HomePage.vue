@@ -1,9 +1,9 @@
 <script setup>
-import Hero from '@/components/Hero.vue';
-import WhyAttend from '@/components/WhyAttend.vue';
+import Hero from '@/components/homeComponents/Hero.vue';
+import WhyAttend from '@/components/homeComponents/WhyAttend.vue';
 import Footer from '@/components/Footer.vue';
-import Countdown from '@/components/Countdown.vue';
-import Map from '@/components/Map.vue';
+import Countdown from '@/components/homeComponents/Countdown.vue';
+import Map from '@/components/homeComponents/Map.vue';
 
 import { ref, onMounted } from 'vue'
 

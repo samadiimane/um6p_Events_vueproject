@@ -1,10 +1,10 @@
 <script setup>
-import CodeOfConduct from '@/components/CodeOfConduct.vue';
+import CodeOfConduct from '@/components/aboutComponents/CodeOfConduct.vue';
 import Footer from '@/components/Footer.vue';
-import HeroAbout from '@/components/HeroAbout.vue';
-import OurMission from '@/components/OurMission.vue';
-import Segments from '@/components/Segments.vue';
-import WhoWeAre from '@/components/WhoWeAre.vue';
+import HeroAbout from '@/components/aboutComponents/HeroAbout.vue';
+import OurMission from '@/components/aboutComponents/OurMission.vue';
+import Segments from '@/components/aboutComponents/Segments.vue';
+import WhoWeAre from '@/components/aboutComponents/WhoWeAre.vue';
 
 import { ref, onMounted } from 'vue'
 
