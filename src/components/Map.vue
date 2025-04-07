@@ -16,7 +16,7 @@
 									<div class="text">
 										<h5>Our Email</h5>
 										<div class="space14"></div>
-										<a href="maito:eventify@gmail.com">futureforward@gmail.com</a>
+										<a href="maito:eventify@gmail.com">future@gmail.com</a>
 									</div>
 								</div>
 								<div class="space18"></div>

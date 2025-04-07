@@ -13,7 +13,6 @@ defineProps({
         link: '/register'
       }
     }),
-    required: true
   }
 })
 </script>
