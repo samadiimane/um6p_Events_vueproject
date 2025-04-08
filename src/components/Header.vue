@@ -55,7 +55,7 @@
               </div>
               <div class="btn-area">
                 <div class="btn-area1">
-                  <a class="vl-btn8" href="#">
+                  <a class="vl-btn8" href="/register">
                     <span class="demo">
                       Get Involved <i class="fa-solid fa-arrow-right"></i>
                     </span>

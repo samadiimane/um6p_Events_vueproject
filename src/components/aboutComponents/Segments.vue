@@ -27,11 +27,11 @@ defineProps({
 				<div v-for="(segment, index) in segments" :key="index" class="col-lg-4 col-md-6">
 					<div class="choose-widget-boxarea">
 						<div class="icons" style="background-color: #D92B3A;">
-							<img src="/assets/img/icons/choose-icons1.svg" alt="" />
+							<img src="/assets/img/logo/logo-1.png" alt="" />
 						</div>
 						<div class="space24"></div>
 						<div class="content-area">
-							<a href="#">{{ segment.title }}</a>
+							<h3>{{ segment.title }}</h3>
 							<div class="space16"></div>
 							<p>{{ segment.description }}</p>
 

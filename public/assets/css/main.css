@@ -1608,7 +1608,6 @@ Location:
      object-fit: contain;
   margin-left: 4px;
   transition: all 0.4s;
-  filter: brightness(0);
 }
 
 /*============= COMMON CSS AREA ENDS===============*/
@@ -12742,7 +12741,7 @@ Location:
   cursor: pointer;
   display: block;
   border-radius: 50px;
-  box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.1);
+  box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.1);
   z-index: 10000;
   opacity: 0;
   visibility: hidden;
@@ -12764,7 +12763,7 @@ Location:
   text-align: center;
   line-height: 56px;
   font-size: 18px;
-  color: var(--ztc-text-text-2);
+  color: var(--ztc-text-text-1);
   left: 0;
   top: 0;
   height: 56px;
@@ -12777,7 +12776,7 @@ Location:
 
 .progress-wrap:hover::after {
   opacity: 0;
-  color: var(--ztc-text-text-2);
+  color: var(--ztc-text-text-1);
 }
 
 .progress-wrap::before {
@@ -12800,7 +12799,7 @@ Location:
 
 .progress-wrap:hover::before {
   opacity: 1;
-  color: var(--ztc-text-text-2);
+  color: var(--ztc-text-text-1);
 }
 
 .progress-wrap svg path {
@@ -12980,6 +12979,7 @@ Location:
   transition: all 0.4s;
   background: var(--ztc-bg-bg-3);
   margin: 0 auto;
+  padding: 0px 5px 5px 5px;
 }
 .choose-section-area .choose-widget-boxarea .content-area a {
   color: var(--ztc-text-text-2);

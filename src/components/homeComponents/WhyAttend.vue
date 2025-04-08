@@ -30,11 +30,11 @@ defineProps({
 				<div v-for="(point, index) in points" :key="index" class="col-lg-4 col-md-6">
 					<div class="choose-widget-boxarea">
 						<div class="icons" style="background-color: #D92B3A;">
-							<img src="/assets/img/icons/choose-icons1.svg" alt="" />
+							<img src="/assets/img/logo/logo-1.png" alt="" />
 						</div>
 						<div class="space24"></div>
 						<div class="content-area">
-							<a href="#">{{ point.split(':')[0] }}</a>
+							<h3>{{ point.split(':')[0] }}</h3>
 							<div class="space16"></div>
 							<p>{{ point.split(':')[1] }}</p>
 						</div>
